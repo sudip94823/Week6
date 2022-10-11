@@ -54,7 +54,14 @@ colcon build
 
 ***Writing an action server and client in Python***
 
+1. Writing an action server
+
 ![image](https://user-images.githubusercontent.com/113494159/194982477-4be78dbb-c0d3-4cf7-a351-0400ad095d15.png)
 ![image](https://user-images.githubusercontent.com/113494159/194982544-ccbc00dc-b762-4677-9743-fd7f559f68b9.png)
+![image](https://user-images.githubusercontent.com/113494159/194984025-5acece74-7427-49cd-89a1-9f1ca1fbd58d.png)
+![image](https://user-images.githubusercontent.com/113494159/194984461-5d52b8b7-18c9-46bf-9c37-814a58786adc.png)
+
+2. Writing an action client
+
 
 
